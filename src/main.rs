@@ -12,5 +12,6 @@ fn main() {
         process::exit(1);
     });
 
-    diamond_drops::run(config);
+    let result = diamond_drops::run(config);
+    assert_eq!(result, ());
 }
