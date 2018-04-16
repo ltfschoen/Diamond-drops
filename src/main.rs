@@ -3,6 +3,7 @@ extern crate diamond_drops;
 #[macro_use]
 extern crate log;
 extern crate chrono;
+extern crate log4rs;
 
 use diamond_drops::cli;
 use diamond_drops::cli::{args};

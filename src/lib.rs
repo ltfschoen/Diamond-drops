@@ -6,6 +6,7 @@ extern crate tiny_keccak;
 #[macro_use]
 extern crate log;
 extern crate chrono;
+extern crate log4rs;
 
 // Module declarations
 pub mod cli;

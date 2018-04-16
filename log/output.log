@@ -1,0 +1,4 @@
+2018-04-16T10:32:52.204196+10:00 - [DEBUG] - Client Mode: Proposer
+2018-04-16T10:32:52.205096+10:00 - [DEBUG] - Running as a proposer
+2018-04-16T10:32:52.205486+10:00 - [DEBUG] - Found environment variable key RUST_ENV: "DEVELOPMENT"
+2018-04-16T10:32:52.205622+10:00 - [DEBUG] - Successful proposer thread join ()
